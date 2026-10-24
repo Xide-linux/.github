@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Xide-linux/xide-test/main/.github/assets/xide-logo.png" width="130" alt="Xide Logo" />
+  <img src="./assets/xide.svg" width="130" alt="Xide Logo" />
 </p>
 
 <h1 align="center">Xide</h1>
